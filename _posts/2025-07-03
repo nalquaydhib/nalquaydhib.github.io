@@ -1,0 +1,11 @@
+---
+title: Complex Analysis & Contour Integration
+date: 2025-07-04
+tags: [Math, Complex Analysis]
+---
+
+Some thoughts about residue theorem...
+
+$$
+\oint_\gamma f(z)\,dz = 2\pi i \sum \text{Res}(f, z_k)
+$$
